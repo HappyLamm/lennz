@@ -6,10 +6,10 @@ import threading
 import sys
 import os
 from os import system, name
-
+#Rename Aja Gapapa
 
 os.system("clear")
-print("Hello Welcome")
+print("Tools By LennX")
 print("\033[0m")         
 ip = str(input("[ ====> ] HOST/IP: "))
 port = int(input("[ ====> ] PORT : "))
