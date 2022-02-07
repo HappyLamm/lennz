@@ -6,7 +6,6 @@ import threading
 import sys
 import os
 from os import system, name
-#Rename Aja Gapapa
 
 os.system("clear")
 print("Tools By LennX")
